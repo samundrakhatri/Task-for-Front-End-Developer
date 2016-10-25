@@ -7,14 +7,6 @@ In this task, you are required to slice any 1 web-page from the given 5 Google F
 We are always open to creative people who thinks out of the box. Hence, when you perform this task, please try to implement new techniques and technologies, and explains us why have you used it. 
 
 
-
-
-### Source File Path. Mockups and Designs (Choose any 1 folder for your task)
-* https://drive.google.com/drive/folders/0B8ldIcV_eU0WbVdpWk85QWxxVWs
-
-
-
-
 ### Slicing Guidelines
 
 1. The markup should use HTML5/SASS that validates W3C guidelines.
