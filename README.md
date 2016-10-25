@@ -2,7 +2,7 @@
 
 Welcome to this stage of IntroCept Recruitment Process. This skill assessment stage ensures that we hire the right people with right skills for the advertised position.
 
-In this task, you are required to slice any 1 web-page from the given 5 Google Folders. All materials and mockup design are inside the each folders.
+In this task, you are required to slice any 1 web-page from the given 5 Google Folders. All materials and mockup designs are inside the each folders.
 
 We are always open to creative people who thinks out of the box. Hence, when you perform this task, please try to implement new techniques and technologies, and explains us why have you used it. 
 
