@@ -8,8 +8,11 @@ We are always open to creative people who thinks out of the box. Hence, when you
 
 
 
+
 ### Source File Path. Mockups and Designs (Choose any 1 folder for your task)
 * https://drive.google.com/drive/folders/0B8ldIcV_eU0WbVdpWk85QWxxVWs
+
+
 
 
 ### Slicing Guidelines
