@@ -19,7 +19,7 @@ We are always open to creative people who thinks out of the box. Hence, when you
 8. It will be plus point to use for CSS3 or Parallax effects.
 9. The submitted task should adoptive responsive with given mockup designs for iphone, ipad and Desktop.
 10. It will be plus point if you send a GIT REPO (Github, Bitbucket, Gitlab ...) link for this task.
-11. If you are uncomfortable with point #8, you can send us zip file.
+11. If you are uncomfortable with point #10, you can send us zip file.
 
 
 ## Components
